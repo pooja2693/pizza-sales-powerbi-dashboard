@@ -1,27 +1,39 @@
-# Pizza Sales Analysis Dashboard
+# 🍕 Pizza Sales Analytics Dashboard (Power BI)
 
 ## Project Overview
+This Power BI dashboard analyzes pizza sales data to uncover business insights such as sales performance, product trends, and pricing strategy impact.
 
-This project analyzes pizza sales performance using Power BI. The dashboard provides insights into revenue trends, sales distribution, and top/bottom performing pizzas.
+## Key Features
+• KPI tracking for Revenue, Orders, Average Order Value, and Pizzas Sold  
+• Daily and Monthly order trend analysis  
+• Best-selling and worst-selling pizza analysis  
+• Category and size distribution insights  
+• Dynamic price simulation using What-If parameter  
+• Forecasted revenue impact based on price adjustments  
+
+## Dashboard Pages
+
+### 1️⃣ Home Dashboard
+![Overview](overview_dashboard.png)
+
+### 2️⃣ Best & Worst Sellers
+![Best Worst](best_worst_analysis.png)
+
+### 3️⃣ Price Strategy Simulation
+![Price Strategy](price_strategy_dashboard.png)
 
 ## Tools Used
+• Power BI  
+• DAX  
+• Data Modeling  
+• SQL (for validation queries)
 
-* Power BI
-* SQL Server
-* Power Query
+## Business Insights
+• Orders are highest on weekends (Friday/Saturday)  
+• Classic pizzas generate the highest revenue  
+• Large size pizzas contribute the most to sales  
+• Price adjustment simulation shows potential revenue growth
 
-## SQL Analysis
-
-SQL queries were written in SQL Server to validate the KPIs and insights used in the Power BI dashboard.
-
-Key analyses performed using SQL include:
-
-• Total Revenue calculation
-• Average Order Value (AOV)
-• Total Orders and Total Pizzas Sold
-• Average Pizzas per Order
-• Daily trend of orders by day of week
-• Monthly trend of orders
 • Percentage of sales by pizza category
 • Percentage of sales by pizza size
 • Total pizzas sold by category
