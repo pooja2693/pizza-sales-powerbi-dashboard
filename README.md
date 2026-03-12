@@ -14,7 +14,7 @@ This Power BI dashboard analyzes pizza sales data to uncover business insights s
 ## Dashboard Pages
 
 ### 1️⃣ Home Dashboard
-![Overview](overview_dashboard.png)
+![Overview](Dashboard-Home.png)
 
 ### 2️⃣ Best & Worst Sellers
 ![Best Worst](best_worst_analysis.png)
