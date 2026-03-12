@@ -17,15 +17,14 @@ This Power BI dashboard analyzes pizza sales data to uncover business insights s
 ![Overview](Dashboard-Home.png)
 
 ### 2️⃣ Best & Worst Sellers
-![Best Worst](best_worst_analysis.png)
+![Best Worst](Dashboard-Bestworst.png)
 
-### 3️⃣ Price Strategy Simulation
-![Price Strategy](price_strategy_dashboard.png)
+### 3️⃣ Price Strategy
+![Price Strategy](Dashboard-Forecast.png)
 
 ## Tools Used
 • Power BI  
-• DAX  
-• Data Modeling  
+• DAX   
 • SQL (for validation queries)
 
 ## Business Insights
